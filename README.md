@@ -20,7 +20,7 @@
 - 📱 Goal: Become a **Software Engineer** & build cross-platform **Flutter mobile apps**
 - 🌱 Currently learning **System Design, Next.js, Docker, Flutter**
 - 🎮 Making games with **Godot Engine** in my free time
-- 💬 Ask me about **React, Vue, NuxtJS, Python AI/ML, Flutter**
+- 💬 Ask me about **Flutter, Vue, NuxtJS, Python AI/ML**
 - 📫 Reach me at **[GitHub](https://github.com/lekhang-cn22h)**
 - ⚡ Fun fact: **I think I am funny**
 
@@ -86,14 +86,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lekhang-cn22h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekhang-cn22h&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lekhang-cn22h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lekhang-cn22h&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lekhang-cn22h&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=lekhang-cn22h&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lekhang-cn22h&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lekhang-cn22h&theme=tokyo-night&hide_border=true&area=true&area_color=6E40C9" />
 </p>
